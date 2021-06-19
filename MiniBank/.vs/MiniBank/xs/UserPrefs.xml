@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{449D9F14-D89B-42B2-97E5-7248028C9E97}|Default">
+  <MonoDevelop.Ide.ItemProperties.MiniBank PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Transaction.cs">
+    <Files>
+      <File FileName="Program.cs" Line="14" Column="1" />
+      <File FileName="BankAccount.cs" Line="16" Column="33" />
+      <File FileName="Transaction.cs" Line="6" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MiniBank" expanded="True">
+            <Node name="MiniBank" expanded="True">
+              <Node name="Transaction.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
